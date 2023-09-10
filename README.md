@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RASHEEDUDDIN
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning b.tech-cse
+- 🌱 GRADUATED IN COMPUTER SCIENCE & ENGINEERING
 - 📫 How to reach me mdrasheedr2@gmail.com
 
 <!---
