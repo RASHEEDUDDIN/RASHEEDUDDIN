@@ -33,8 +33,7 @@ I'm **Rasheed Uddin**, a passionate **Computer Science & Engineering Graduate** 
 ## 📫 Let's Connect  
 
 - 📩 Email me at: **mohammedrasheed3108@gmail.com**  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🌟 Portfolio: [Your Portfolio Link](#)  
+- 💼 LinkedIn: [[Connect with me](https://www.linkedin.com/in/rasheeduddin/)](#)  
 
 ---
 
