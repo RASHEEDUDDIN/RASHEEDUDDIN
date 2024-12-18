@@ -1,9 +1,46 @@
-- 👋 Hi, I’m @RASHEEDUDDIN
-- 👀 I’m interested in learning 
-- 🌱 GRADUATED IN COMPUTER SCIENCE & ENGINEERING
-- 📫 How to reach me mohammedrasheed3108@gmail.com
+# 👋 Hey there! Welcome to my GitHub!  
 
-<!---
-RASHEEDUDDIN/RASHEEDUDDIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Rasheed Uddin**, a passionate **Computer Science & Engineering Graduate** always on the lookout for exciting learning opportunities and challenges. 🌟  
+
+---
+
+## 👀 About Me  
+
+- 🎓 **Graduate in Computer Science & Engineering**
+- 💻 Enthusiastic about **coding**, **web development**, and **mobile app development**
+- 🚀 Always exploring new technologies and tools to improve my skill set
+- 🌱 Currently diving deep into **eCommerce app development** and **Firebase integration**
+
+---
+
+## 🔧 Tech Stack  
+
+- 🌐 **Web Development**: HTML, CSS, JavaScript, jQuery  
+- 📱 **Mobile Development**: Android, Firebase Firestore  
+- 🛠 **Backend**: MongoDB, MySQL, Firebase  
+- 🌟 **Frameworks & Tools**: React, Flutter, Android Studio, Firebase SDK  
+
+---
+
+## 💡 Interests  
+
+- 💻 **Coding & Development**: Building responsive and dynamic applications  
+- 📚 **Learning**: Keeping up with emerging tech trends  
+- 🎨 **UI/UX Design**: Crafting user-friendly interfaces  
+
+---
+
+## 📫 Let's Connect  
+
+- 📩 Email me at: **mohammedrasheed3108@gmail.com**  
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 🌟 Portfolio: [Your Portfolio Link](#)  
+
+---
+
+### ✨ Fun Fact  
+I believe in the mantra: "Every line of code brings me closer to creating something extraordinary!"  
+
+---
+  
+Thanks for stopping by! Happy coding! 🚀  
