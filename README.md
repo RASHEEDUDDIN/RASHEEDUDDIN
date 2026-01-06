@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub!  
 
-I'm **Rasheed Uddin**, a passionate **Computer Science & Engineering Graduate** always on the lookout for exciting learning opportunities and challenges. 🌟  
+I'm **Rasheeduddin**, a passionate **Computer Science & Engineering Graduate** always on the lookout for exciting learning opportunities and challenges. 🌟  
 
 ---
 
