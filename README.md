@@ -34,11 +34,7 @@ I'm **Rasheed Uddin**, a passionate **Computer Science & Engineering Graduate** 
 
 - 📩 Email me at: **mohammedrasheed3108@gmail.com**  
 - 💼 LinkedIn: [[Connect with me](https://www.linkedin.com/in/rasheeduddin/)]
-
----
-
-### ✨ Fun Fact  
-I believe in the mantra: "Every line of code brings me closer to creating something extraordinary!"  
+ 
 
 ---
   
